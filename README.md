@@ -1,11 +1,11 @@
-# online_chat
+# Online Chat
 
-This is a simple online chat built in Flutter framework, using Firebase as its backend.
-If you are going to build this project in your machine, remember to create a new project in Firebase and generate a new google-services.json.
+This is a simple online chat built in Flutter framework, using Firebase as its backend. \n
+If you are going to build this project in your machine, remember to create a new project in Firebase and generate a new google-services.json and a new firebase_options.dart. \n
 The Flutter version of this project is 2.10.4 stable.
 
-# download and access
+# Download and Access
 
-Android: 
-ios:
-Web:
+Android:  \n
+ios:  \n
+Web:  \n
